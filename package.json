@@ -69,7 +69,7 @@
     "@types/jasminewd2": "~2.0.2",
     "@types/node": "~6.0.60",
     "codelyzer": "~3.1.1",
-    "electron": "1.7.10",
+    "electron": "22.3.24",
     "electron-packager": "10.1.0",
     "grunt": "^1.0.3",
     "grunt-war": "^0.5.1",
